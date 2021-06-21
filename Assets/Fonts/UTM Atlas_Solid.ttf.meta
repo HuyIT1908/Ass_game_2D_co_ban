@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: da5f05b1eef758c47b3395b6d22dd4a8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - UTM Atlas
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 84a66c85129e3be459212aaf495b6265, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
